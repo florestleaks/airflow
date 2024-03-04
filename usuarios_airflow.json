@@ -1,0 +1,16 @@
+[
+    {
+        "username": "soar_monitoring",
+        "firstname": "soar_user",
+        "lastname": "monitoring",
+        "email": "soar_monitoring@florestleaks.com",
+        "role": "Admin"
+    },
+    {
+        "username": "soar_setup",
+        "firstname": "soar_user",
+        "lastname": "manager_user",
+        "email": "soar_setup@florestleaks.com",
+        "role": "Admin"
+    }
+]
