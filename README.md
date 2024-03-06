@@ -1,1 +1,1 @@
-![image](https://github.com/florestleaks/airflow/assets/139988984/a2e9475e-30ff-4290-946b-70319245dffe)
+![image](https://github.com/florestleaks/airflow/assets/139988984/8ebc35b5-52b6-4194-95dd-e4a69bfc38d6)
